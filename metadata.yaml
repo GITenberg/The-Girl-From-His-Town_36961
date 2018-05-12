@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '5921'
     url: http://www.gutenberg.org/2009/agents/5921
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36961#The-Girl-From-His-Town
 gutenberg_issued: '2011-08-03'
 gutenberg_type: Text
 identifiers:
